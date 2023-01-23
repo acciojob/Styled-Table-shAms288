@@ -1,1 +1,20 @@
 /* your code */
+.main-table{
+	border: 5px solid #F1F1F1;
+	border-collapse: collapse;
+	width: 600px;
+	border-radius: 5px ;
+}
+thead{
+	background-color: #215A8E;
+	color: white;
+	
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+tr:nth-child(even) {
+		background-color: #DDDDDD;}
+}
+
